@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "Development"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/Development/
 author_profile: true
-taxonomy: Categories1
+taxonomy: Development
 sidebar:
-  nav: "categories"
+  nav: "Development"
 ---
