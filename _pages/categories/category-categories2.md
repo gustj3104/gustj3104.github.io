@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Algorithm"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/Algorithm/
 author_profile: true
-taxonomy: Categories2
+taxonomy: Algorithm
 sidebar:
-  nav: "categories"
+  nav: "Algorithm"
 ---
