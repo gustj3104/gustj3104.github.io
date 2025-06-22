@@ -1,27 +1,32 @@
 # main links
 main:
-  - title: "Home"
-    url: https://gustj3104.github.io/
+    - title: 'Home'
+      url: https://gustj3104.github.io/
 
-  - title: "About"
-    url: /about/
+    - title: 'About'
+      url: /about/
 
-  - title: "GitHub"
-    url: https://github.com/gustj3104
+    - title: 'GitHub'
+      url: https://github.com/gustj3104
 
-  # - title: "Projects"
-  #   url: /projects/
-
-  # - title: "Categories"
-  #   url: /categories/
-
-# sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Development"
-    url: /categories/Development/
-  - title: "Algorithm"
-    url: /categories/Algorithm/
-  - title: "Computer Science"
-    url: /categories/ComputerScience/
+    - title: 'Development'
+      url: /categories/development/
+      children:
+          - title: 'Spring'
+            url: /categories/development/spring/
 
+    - title: 'Algorithm'
+      url: /categories/algorithm/
+
+    - title: 'Computer Science'
+      url: /categories/computer-science/
+      children:
+          - title: 'Operation System'
+            url: /categories/computer-science/os/
+          - title: 'Computer Structure'
+            url: /categories/computer-science/computer-structure/
+          - title: 'Database'
+            url: /categories/computer-science/db/
+          - title: 'Network'
+            url: /categories/computer-science/network/
